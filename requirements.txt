@@ -2,8 +2,9 @@ streamlit
 pandas
 numpy
 scikit-learn
-tensorflow
 plotly
+reverse_geocoder
+joblib
 pydeck
 opencv-python
 pillow
